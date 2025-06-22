@@ -12,3 +12,20 @@ For the future I'm planning on making a resource pack for the base game and mayb
 ## Misc
 I make no money from this project
 I'm bad at writing readme-s
+
+## Update 25/06/23 - the *Directions* update
+### Redesigns:
+- Inserters
+- Belts
+- Drills
+
+### New mechanics:
+- Directional belts
+- Directional gun turrets
+- Directional combinators
+
+### Expanded annotation:
+- Separate gun turrets
+
+### Misc:
+- New examples
